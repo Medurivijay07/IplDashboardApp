@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.latestmatch-container {
+  background-color: #0f172a;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-part {
+  color: #ffffff;
+}
+
+.right-part {
+  color: #ffffff;
+}

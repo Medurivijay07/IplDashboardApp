@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.each-match-card {
+  background-color: #0f172a;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  margin: 10px;
+  color: #ffffff;
+}
+
+.won-style {
+  color: #18ed66;
+}
+
+.lost-style {
+  color: #e31a1a;
+}
+
+.competing-team-image {
+  width: 50%;
+}

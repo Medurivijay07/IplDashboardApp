@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.rcb {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+}
+
+.kkr {
+  background-image: linear-gradient(to top, #1e293b, #5755a7);
+}
+.kxp {
+  background-image: linear-gradient(to top, #1e293b, #d91c1f);
+}
+
+.csk {
+  background-image: linear-gradient(to top, #1e293b, #f7db00);
+}
+.rr {
+  background-image: linear-gradient(to top, #1e293b, #da237b);
+}
+.mi {
+  background-image: linear-gradient(to top, #1e293b, #13418b);
+}
+
+.srh {
+  background-image: linear-gradient(to top, #1e293b, #f26d22);
+}
+
+.dc {
+  background-image: linear-gradient(to top, #1e293b, #4f5db0);
+}
+
+.responsive-teammatches-container {
+  width: 90%;
+  max-width: 1100px;
+  margin-top: 40px;
+}
+
+class-container {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.team-banner {
+  width: 100%;
+}
+
+.latest-matches {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.match-cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+.team-matches-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
